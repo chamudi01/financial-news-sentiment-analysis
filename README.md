@@ -52,15 +52,15 @@ The original dataset contains financial news sentences annotated by human annota
 
 ### Dataset Source
 
-The dataset can be accessed from the following GitHub repository:
+## Dataset Source
 
-Financial PhraseBank Dataset Repository
+The dataset can be accessed from the following GitHub repository:  
+[Financial PhraseBank Dataset Repository](https://github.com/maxwellsarpong/NLP-financial-text-processing-dataset)
 
-The original Financial PhraseBank dataset contains financial and economic sentences annotated as positive, negative, or neutral. For this project, the Sentences_75Agree.txt version was used.
+The original Financial PhraseBank dataset contains financial and economic sentences annotated as positive, negative, or neutral. For this project, the `Sentences_75Agree.txt` version was used.
 
 The dataset was originally introduced in the following study:
-
-Malo, P., Sinha, A., Korhonen, P., Wallenius, J., and Takala, P., "Good debt or bad debt: Detecting semantic orientations in economic texts," *Journal of the American Society for Information Science and Technology*, vol. 65, no. 4, pp. 782–796, 2014.
+> Malo, P., Sinha, A., Korhonen, P., Wallenius, J., and Takala, P. (2014). *Good debt or bad debt: Detecting semantic orientations in economic texts.* Journal of the American Society for Information Science and Technology, 65(4), 782–796.
 
 ---
 
